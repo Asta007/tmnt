@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Leonardo",
+        "about" : "dit Leo, est l'aîné. Il prend toujours au sérieux la pratique du ninjutsu et tente d'encourager ses frères à faire de même,",
+        "img" : "pic_leo.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Raphael",
+        "about" : "dit Raph, est la tête brûlée du groupe. il s'oppose souvent aux ordres de Leo, mais est toujours présent pour aider",
+        "img" : "pic_raph.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Donatello",
+        "about" : "dit Donnie, C'est le plus pacifique il préfère utiliser la parole à son bō pour régler les conflits. c'est Intellectuel amateur de science",
+        "img" : "pic_don.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Michelangelo",
+        "about" : "dit Mikey, Le benjamin de la famille. aime le plaisanterie, les bandes dessinées, il est réputé pour être un grand mangeur de pizza",
+        "img" : "pic_mich.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Splinter",
+        "about" : "père adoptif et maître de Ninjutsu des tortues. très sage et protége ses fils du monde extérieur . il a une force à ne pas négliger lors d'un combat",
+        "img" : "pic_splinter.png"
+    },
+    {
+        "id" : 6,
+        "name" : "Shredder",
+        "about" : "Déchiqueteur ! Chef du Clan des Foot, Pire ennemi des tortues. Son but, est resté le même : détruire les tortues.",
+        "img" : "pic_shred.png"
+    }
+]
