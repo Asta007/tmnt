@@ -9,7 +9,7 @@
 }
 
 html,body{
-    /* height: 100%; */
+    height: 100%;
     scroll-behavior: smooth;
 }
 
@@ -107,6 +107,7 @@ nav a:hover{
 .bannertop{
     width: 100%;
     height: 80vh;
+    max-height: 800px;
     background-image: url('./ressources/img/bannerup.jpg');
     background-size: cover;
     clip-path: polygon(0 0, 100% 20%, 100% 80%, 0% 100%);
@@ -202,6 +203,7 @@ section h2::before{
     padding-top: 30px;
     width: 100%;
     height: 70vh;
+    max-height: 800px;
     background-image: url('./ressources/img/bannermidlle.jpg');
     background-image: url('./ressources/img/teste.jpg');
     background-size: cover;
@@ -408,4 +410,109 @@ footer{
     border:solid #fff 1px;
     border-radius: 20px;
 }
+
+/* ================= STREAM  */
+
+#content_stream{
+    /* border:solid #333 1px; */
+    padding: 50px;
+    /* height: 100vh; */
+    background-color: #fff;
+}
+
+
+#episode_bloc{
+    /* border:solid var(--darkorange) 1px; */
+    max-width: 300px !important;
+    padding: 0;
+    background-color: #fff;
+}
+
+#content_episode{
+    background-color: #fff;
+    filter: drop-shadow(1px 1px 3px rgba(0,0,0,0.2));
+}
+#content_episode .saison_title{
+    height: 45px;
+    background-color: #864900;
+    width: 100%;
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.1em;
+    line-height: 45px;
+    padding: 0px 15px;
+    border-bottom:solid #efefef .5px;
+}
+
+#content_episode .saison_title:hover{
+    text-decoration: none;
+}
+
+#content_episode .content_saison{
+    background-color: #d77400;
+}
+
+#content_episode .content_saison button{
+    display: block;
+    color: #fff;
+    padding: 3% 5%;
+    width: 95%;
+    margin: auto;
+    text-align: left;
+    border: none;
+    border-bottom: solid rgba(255, 255, 255, 0.2) 1px;
+    background-color: #d77400;
+    font-size: 0.9em;
+}
+
+#content_episode .content_saison li:hover{
+    background: rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.black_overlay{
+    background: rgba(0, 0, 0, 0.1);
+}
+
+#content_episode .content_saison a:hover{
+    text-decoration: underline;
+}
+
+#content_episode .content_saison a:visited{
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: line-through;
+}
+
+
+
+#content_video{
+    border:solid #dbdbdb 1px;
+    padding: 25px;
+    position: sticky;
+    top: 50px;
+    background-color: #fff;
+    filter: drop-shadow(1px 1px 3px rgba(0,0,0,0.2));
+    border-radius: 5px;
+}
+
+#video_bloc .name{
+    color: var(--darkorange);
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 0;
+}
+
+#video_bloc .subname{
+    color: var(--darkorange);
+    font-size: 1em;
+    color: #333;
+}
+
+#video_bloc iframe{
+    width: 100%;
+    height: 60vh;
+}
+
+
 
