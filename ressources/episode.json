@@ -1,135 +1,161 @@
 [
     {
-        "id" : 1,
+        "num" : 1,
         "season" : 1,
         "episodes" : [
             {
+                "id" : 1 ,
                 "num" : 1,
                 "title" : "Things Change",
                 "url" : "https://www.youtube.com/embed/SVnkvZUEyxU?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 2 ,
                 "num" : 2,
                 "title" : "A better Moustrap",
                 "url" : "https://www.youtube.com/embed/0HMJ0Wmi-gE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 3 ,
                 "num" : 3,
                 "title" : "Attack on the mouser",
+                "url" : ""
+            },
+            {
+                "id" : 4 ,
+                "num" : 4,
+                "title" : "Meet Casey Jones",
                 "url" : "https://www.youtube.com/embed/5n1drM_uyRY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
-                "num" : 4,
-                "title" : "Meet Casey Jones",
+                "id" : 5 ,
+                "num" : 5,
+                "title" : "Nano",
                 "url" : "https://www.youtube.com/embed/giubV5n0_tQ?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
-                "num" : 5,
-                "title" : "Nano",
+                "id" : 6 ,
+                "num" : 6,
+                "title" : "Darkness on the Edge of Town",
                 "url" : "https://www.youtube.com/embed/cX52uEF_4mM?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
-                "num" : 6,
-                "title" : "Darkness on the Edge of Town",
+                "id" : 7 ,
+                "num" : 7,
+                "title" : "The Way of Invisibility",
                 "url" : "https://www.youtube.com/embed/53JoqV8JEVc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
-                "num" : 7,
-                "title" : "The Way of Invisibility",
+                "id" : 8 ,
+                "num" : 8,
+                "title" : "Fallen Angel",
                 "url" : "https://www.youtube.com/embed/hGM75dhT2gw?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
-                "num" : 8,
-                "title" : "Fallen Angel",
+                "id" : 9 ,
+                "num" : 9,
+                "title" : "Garbageman",
                 "url" : "https://www.youtube.com/embed/h1i-nXv0wI0?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
-                "num" : 9,
-                "title" : "Garbageman",
-                "url" : "https://www.youtube.com/embed/pqPWndhmq9Y?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
-            },
-            {
+                "id" : 10 ,
                 "num" : 10,
                 "title" : "shredder strikes 1",
                 "url" : "https://www.youtube.com/embed/pqPWndhmq9Y?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 11 ,
                 "num" : 11,
                 "title" : "shredder strikes 2",
                 "url" : "https://www.youtube.com/embed/vhWCRIvMkQw?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             
             {
+                "id" : 12 ,
                 "num" : 12,
                 "title" : "The Unconvincing Turtle Titan",
                 "url" : "https://www.youtube.com/embed/wcqUYV8CMK0?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 13 ,
                 "num" : 13,
                 "title" : "Notes from the Underground, Part 1",
                 "url" : "https://www.youtube.com/embed/VEboqgeyG40?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 14 ,
                 "num" : 14,
                 "title" : "Notes from the Underground, Part 2",
                 "url" : "https://www.youtube.com/embed/t1g4O1nJmVY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 15 ,
                 "num" : 15,
                 "title" : "Notes from the Underground, Part 3",
                 "url" : "https://www.youtube.com/embed/i9_sQB8DF3Y?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 16 ,
                 "num" : 16,
                 "title" : "The King",
                 "url" : "https://www.youtube.com/embed/vmmMM-zAnq0?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 17 ,
                 "num" : 17,
                 "title" : "The Shredder Strikes Back, Part 1",
                 "url" : "https://www.youtube.com/embed/kJxQKTX_lZk?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 18 ,
                 "num" : 18,
                 "title" : "The Shredder Strikes Back, Part 2",
                 "url" : "https://www.youtube.com/embed/__qiMhQHmTQ?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 19 ,
                 "num" : 19,
                 "title" : "Tales of Leo",
                 "url" : "https://www.youtube.com/embed/3YTeUdycQWE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 20 ,
                 "num" : 20,
                 "title" : "The Monster Hunter",
                 "url" : "https://www.youtube.com/embed/l8vOUYki5KE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 21 ,
                 "num" : 21,
                 "title" : "Return to New York, Part 1",
                 "url" : "https://www.youtube.com/embed/Ux-9lyeyKoc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 22 ,
                 "num" : 22,
                 "title" : "Return to New York, Part 2",
                 "url" : "https://www.youtube.com/embed/BedNuz7cXRo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 23 ,
                 "num" : 23,
                 "title" : "Return to New York, Part 3",
                 "url" : "https://www.youtube.com/embed/jy1tROd5xBE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 24 ,
                 "num" : 24,
                 "title" : "Lone Raph and Cub",
                 "url" : "https://www.youtube.com/embed/NvWv5G3meBY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 25 ,
                 "num" : 25,
                 "title" : "The Search for Splinter, Part 1",
                 "url" : "https://www.youtube.com/embed/_WI0fOK-tBg?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 26 ,
                 "num" : 26,
                 "title" : "The Search for Splinter, Part 2",
                 "url" : "https://www.youtube.com/embed/8_5wzM4wPzo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
@@ -138,136 +164,162 @@
         ]
     },
     {
-        "id" : 2,
+        "num" : 2,
         "season" : 2,
         "episodes" : [
             {
+                "id" : 27 ,
                 "num" : 1,
                 "title" : "Turtles in Space, Part 1",
                 "url" : "https://www.youtube.com/embed/gBBJSDQnZJQ?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 28 ,
                 "num" : 2,
                 "title" : "Turtles in Space, Part 2",
                 "url" : "https://www.youtube.com/embed/jz8kb6UTX_o?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 29 ,
                 "num" : 3,
                 "title" : "Turtles in Space, Part 3",
                 "url" : "https://www.youtube.com/embed/5KpiEl3eqIY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 30 ,
                 "num" : 4,
                 "title" : "Turtles in Space, Part 4",
                 "url" : "https://www.youtube.com/embed/nWDRMGjCdFE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 31 ,
                 "num" : 5,
                 "title" : "Turtles in Space, Part 5",
                 "url" : "https://www.youtube.com/embed/P-D74pgWqg4?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99S"
             },
             {
+                "id" : 32 ,
                 "num" : 6,
                 "title" : "Secret Origins, Part 1",
                 "url" : "https://www.youtube.com/embed/VeJg2XyUe_s?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 33 ,
                 "num" : 7,
                 "title" : "Secret Origins, Part 2",
                 "url" : "https://www.youtube.com/embed/ph9DVtpjyio?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 34 ,
                 "num" : 8,
                 "title" : "Secret Origins, Part 3",
                 "url" : "https://www.youtube.com/embed/wbidV4h1mLw?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 35 ,
                 "num" : 9,
                 "title" : "Reflections",
                 "url" : "https://www.youtube.com/embed/eRXvmlhL0iE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 36 ,
                 "num" : 10,
                 "title" : "The Ultimate Ninja",
                 "url" : "https://www.youtube.com/embed/YbbA35KIlpo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 37 ,
                 "num" : 11,
                 "title" : "The Return of Nano",
                 "url" : "https://www.youtube.com/embed/-nbJEWQPTh8?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99S"
             },
             
             {
+                "id" : 38 ,
                 "num" : 12,
                 "title" : "What a Croc!",
                 "url" : "https://www.youtube.com/embed/FDrZTvIdGyo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 39 ,
                 "num" : 13,
                 "title" : "Return to the Underground",
                 "url" : "https://www.youtube.com/embed/pTCR0liQIhY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 40 ,
                 "num" : 14,
                 "title" : "City at War, Part 1",
                 "url" : "https://www.youtube.com/embed/KrIKFTi6FmA?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 41 ,
                 "num" : 15,
                 "title" : "City at War, Part 2",
                 "url" : "https://www.youtube.com/embed/gBFr5BleSGg?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 42 ,
                 "num" : 16,
                 "title" : "City at War, Part 3",
                 "url" : "https://www.youtube.com/embed/gArAFG9ZYnA?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 43 ,
                 "num" : 17,
                 "title" : "Junklantis",
                 "url" : "https://www.youtube.com/embed/wHeFB6R4BUw?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 44 ,
                 "num" : 18,
                 "title" : "The Golden Puck",
                 "url" : "https://www.youtube.com/embed/z96UdBJQ27Y?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 45 ,
                 "num" : 19,
                 "title" : "Rogue in the House, Part 1",
                 "url" : "https://www.youtube.com/embed/w93lwOLr5HY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 46 ,
                 "num" : 20,
                 "title" : "Rogue in the House, Part 2",
                 "url" : "https://www.youtube.com/embed/mNTUGncZDws?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 47 ,
                 "num" : 21,
                 "title" : "April's Artifact",
                 "url" : "https://www.youtube.com/embed/LAeqcvu3Z5A?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 48 ,
                 "num" : 22,
                 "title" : "Return of the Justice Force",
                 "url" : "https://www.youtube.com/embed/CKL4A7tVyfI?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 49 ,
                 "num" : 23,
                 "title" : "The Big Brawl, Part 1",
                 "url" : "https://www.youtube.com/embed/N8hVAceRSU4?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 50 ,
                 "num" : 24,
                 "title" : "The Big Brawl, Part 2",
                 "url" : "https://www.youtube.com/embed/lKI18tDOTL4?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 51 ,
                 "num" : 25,
                 "title" : "The Big Brawl, Part 3",
                 "url" : "https://www.youtube.com/embed/O05pVBMQIag?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 52 ,
                 "num" : 26,
                 "title" : "The Big Brawl, Part 4",
                 "url" : "https://www.youtube.com/embed/GJWF1fjj7mM?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
@@ -276,136 +328,162 @@
         ]
     },
     {
-        "id" : 3,
+        "num" : 3,
         "season" : 3,
         "episodes" : [
             {
+                "id" : 53 ,
                 "num" : 1,
                 "title" : "The Christmas Aliens",
                 "url" : "https://www.youtube.com/embed/siBF5dXaGxc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 54 ,
                 "num" : 2,
                 "title" : "Space Invaders, Part 1",
                 "url" : "https://www.youtube.com/embed/f3_sdLLWJhc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 55 ,
                 "num" : 3,
                 "title" : "Space Invaders, Part 2",
                 "url" : "https://www.youtube.com/embed/aIpoS-nIlKI?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 56 ,
                 "num" : 4,
                 "title" : "Space Invaders, Part 3",
                 "url" : "https://www.youtube.com/embed/bt5CTzyXzoM?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 57 ,
                 "num" : 5,
                 "title" : "Worlds Collide, Part 1",
                 "url" : "https://www.youtube.com/embed/XiepU2wTE_c?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 58 ,
                 "num" : 6,
                 "title" : "Worlds Collide, Part 2",
                 "url" : "https://www.youtube.com/embed/HZyx5Ni0gQE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 59 ,
                 "num" : 7,
                 "title" : "Worlds Collide, Part 3",
                 "url" : "https://www.youtube.com/embed/ksq_SPH3Xgs?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 60 ,
                 "num" : 8,
                 "title" : "Touch and Go",
                 "url" : "https://www.youtube.com/embed/k2jxspOI240?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 61 ,
                 "num" : 9,
                 "title" : "Hunted",
                 "url" : "https://www.youtube.com/embed/fTB1bdvmfwg?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 62 ,
                 "num" : 10,
                 "title" : "H.A.T.E.",
                 "url" : "https://www.youtube.com/embed/Dw-FVZbau3Q?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 63 ,
                 "num" : 11,
                 "title" : "Nobody's Fool",
                 "url" : "https://www.youtube.com/embed/1sf61NJxkNc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             
             {
+                "id" : 64 ,
                 "num" : 12,
                 "title" : "New Blood",
                 "url" : "https://www.youtube.com/embed/adR57kViR-I?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 65 ,
                 "num" : 13,
                 "title" : "The Lesson",
                 "url" : "https://www.youtube.com/embed/FkLAPhWtc68?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 66 ,
                 "num" : 14,
                 "title" : "The Darkness Within",
                 "url" : "https://www.youtube.com/embed/-yibwwpvnts?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 67 ,
                 "num" : 15,
                 "title" : "Mission of Gravity",
                 "url" : "https://www.youtube.com/embed/NoN9gQxyMVo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 68 ,
                 "num" : 16,
                 "title" : "The Entity Below",
                 "url" : "https://www.youtube.com/embed/KOZpek655Lc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 69 ,
                 "num" : 17,
                 "title" : "Time Travails",
                 "url" : "https://www.youtube.com/embed/8MAyjReEh7Q?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 70 ,
                 "num" : 18,
                 "title" : "Hun on the Run",
                 "url" : "https://www.youtube.com/embed/3hsekH9Ghi8?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 71 ,
                 "num" : 19,
                 "title" : "Reality Check",
                 "url" : "https://www.youtube.com/embed/iFSLfZrQDeY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 72 ,
                 "num" : 20,
                 "title" : "Across the Universe",
                 "url" : "https://www.youtube.com/embed/yP6RtpkrBf8?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 73 ,
                 "num" : 21,
                 "title" : "Same As It Never Was",
                 "url" : "https://www.youtube.com/embed/ivhqIt1j2sI?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 74 ,
                 "num" : 22,
                 "title" : "The Real World, Part 1",
                 "url" : "https://www.youtube.com/embed/045Kwm1u898?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 75 ,
                 "num" : 23,
                 "title" : "The Real World, Part 2",
                 "url" : "https://www.youtube.com/embed/1xpq2piHdac?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 76 ,
                 "num" : 24,
                 "title" : "Bishop's Gambit",
                 "url" : "https://www.youtube.com/embed/3ERAyETN2gk?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 77 ,
                 "num" : 25,
                 "title" : "Exodus, Part 1",
                 "url" : "https://www.youtube.com/embed/7ZAeSU5usas?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 78 ,
                 "num" : 26,
                 "title" : "Exodus, Part 2",
                 "url" : "https://www.youtube.com/embed/xxSe0Hi-3S8?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
@@ -414,136 +492,162 @@
         ]
     },
     {
-        "id" : 4,
+        "num" : 4,
         "season" : 4,
         "episodes" : [
             {
+                "id" : 0 ,
                 "num" : 1,
                 "title" : "Cousin Sid",
                 "url" : "https://www.youtube.com/embed/Td72OUy5Jjo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 2,
                 "title" : "The People's Choice",
                 "url" : "https://www.youtube.com/embed/EaM3Ih-D5_I?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 3,
                 "title" : "Sons of the Silent Age",
                 "url" : "https://www.youtube.com/embed/_SV16qMi_KE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 4,
                 "title" : "Dragon's Brew",
                 "url" : "https://www.youtube.com/embed/cePvzFtcjr8?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 5,
                 "title" : "Monster",
                 "url" : "https://www.youtube.com/embed/186q8YkzxpU?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 6,
                 "title" : "Grudge Match",
                 "url" : "https://www.youtube.com/embed/PiLlbkdFcZQ"
             },
             {
+                "id" : 0 ,
                 "num" : 7,
                 "title" : "A Wing and a Prayer",
                 "url" : "https://www.youtube.com/embed/1sitDcfGtIY?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 8,
                 "title" : "Bad Day",
                 "url" : "https://www.youtube.com/embed/4fGKM_LTbEc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 9,
                 "title" : "Aliens Among Us",
                 "url" : "https://www.youtube.com/embed/-IIBA9ilCjM?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 10,
                 "title" : "Dragons Rising",
                 "url" : "https://www.youtube.com/embed/p3zeC4O9TaE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 11,
                 "title" : "Still Nobody",
                 "url" : "https://www.youtube.com/embed/ifjhrp0XAHA?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             
             {
+                "id" : 0 ,
                 "num" : 12,
                 "title" : "All Hallows Thieves",
                 "url" : "https://www.youtube.com/embed/aqkYuiSnpxc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 13,
                 "title" : "Samurai Tourist",
                 "url" : "https://www.youtube.com/embed/S19C6nCwCso?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 14,
                 "title" : "The Ancient One",
                 "url" : "https://www.youtube.com/embed/TJNc75Hdf0E?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 15,
                 "title" : "Scion of the Shredder",
                 "url" : "https://www.youtube.com/embed/5JM9ArDlwgs?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 16,
                 "title" : "Prodigal Son",
                 "url" : "https://www.youtube.com/embed/phiNzS1Q674?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 17,
                 "title" : "Outbreak",
                 "url" : "https://www.youtube.com/embed/nMtiooISAmE?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 18,
                 "title" : "Trouble with Augie",
                 "url" : "https://www.youtube.com/embed/gd1VuCLuN4k?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 19,
                 "title" : "Insane in the Membrane",
                 "url" : "https://www.youtube.com/embed/KvkCSHx1rP0?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 20,
                 "title" : "Return of Savanti, Part 1",
                 "url" : "https://www.youtube.com/embed/7PGGR9efa6A?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 21,
                 "title" : "Return of Savanti, Part 2",
                 "url" : "https://www.youtube.com/embed/ALIckSgw8t4?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 22,
                 "title" : "Tale of Master Yoshi",
                 "url" : "https://www.youtube.com/embed/iN_KLXZCJ6E?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 23,
                 "title" : "Adventures in Turtle Sitting",
                 "url" : "https://www.youtube.com/embed/IAmABbI5SY0?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 24,
                 "title" : "Good Genes, Part 1",
                 "url" : "https://www.youtube.com/embed/YinRNFGqkmc?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 25,
                 "title" : "Good Genes, Part 2",
                 "url" : "https://www.youtube.com/embed/eP89QxWNDxs?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 26,
                 "title" : "Ninja Tribunal",
                 "url" : "https://www.youtube.com/embed/51s3aOEKE9Q?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
@@ -552,65 +656,77 @@
         ]
     },
     {
-        "id" : 5,
+        "num" : 5,
         "season" : 5,
         "episodes" : [
             {
+                "id" : 0 ,
                 "num" : 1,
                 "title" : "Lap of the Gods",
                 "url" : "https://www.youtube.com/embed/wDZ9nZ_0uF8?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 2,
                 "title" : "Demons and Dragons",
                 "url" : "https://www.youtube.com/embed/HqKihJVjIbs?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 3,
                 "title" : "Legend of the 5 Dragons",
                 "url" : "https://www.youtube.com/embed/M0Z3u6F-Og0?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 4,
                 "title" : "More Worlds Than One",
                 "url" : "https://www.youtube.com/embed/D-74FqP5g8k?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 5,
                 "title" : "Beginning of the End",
                 "url" : "https://www.youtube.com/embed/9p4iVwQ9248?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 6,
                 "title" : "Membership Drive",
                 "url" : "https://www.youtube.com/embed/W7IRfi8-uHs?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 7,
                 "title" : "New World Order, Part 1",
                 "url" : "https://www.youtube.com/embed/cCjo0X5Wewo?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 8,
                 "title" : "New World Order, Part 2",
                 "url" : "https://www.youtube.com/embed/jUG7O-svSRQ?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 9,
                 "title" : "thers and Sons",
                 "url" : "https://www.youtube.com/embed/DTuwZIefy_4?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 10,
                 "title" : "Past and Present",
                 "url" : "https://www.youtube.com/embed/yMk3IxVYI4s?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 11,
                 "title" : "Enter the Dragons, Part 1",
                 "url" : "https://www.youtube.com/embed/zIbCqZNctmw?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
             },
             {
+                "id" : 0 ,
                 "num" : 12,
                 "title" : "Enter the Dragons, Part 2",
                 "url" : "https://www.youtube.com/embed/6oUeomgtRNk?list=PLWqeLdAtBxYI3FqPU93HFuyU0_PkB99SC"
@@ -619,136 +735,162 @@
         ]
     },
     {
-        "id" : 6,
+        "num" : 6,
         "season" : 6,
         "episodes" : [
             {
+                "id" : 0 ,
                 "num" : 1,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 2,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 3,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 4,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 5,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 6,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 7,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 8,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 9,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 10,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 11,
                 "title" : "Things Change",
                 "url" : ""
             },
             
             {
+                "id" : 0 ,
                 "num" : 12,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 13,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 14,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 15,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 16,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 17,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 18,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 19,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 20,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 21,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 22,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 23,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 24,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 25,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 26,
                 "title" : "Things Change",
                 "url" : ""
@@ -757,71 +899,84 @@
         ]
     },
     {
-        "id" : 7,
+        "num" : 7,
         "season" : 7,
         "episodes" : [
             {
+                "id" : 0 ,
                 "num" : 1,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 2,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 3,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 4,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 5,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 6,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 7,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 8,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 9,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 10,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 11,
                 "title" : "Things Change",
                 "url" : ""
             },
             
             {
+                "id" : 0 ,
                 "num" : 12,
                 "title" : "Things Change",
                 "url" : ""
             },
             {
+                "id" : 0 ,
                 "num" : 13,
                 "title" : "Things Change",
                 "url" : ""
