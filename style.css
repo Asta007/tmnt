@@ -231,7 +231,6 @@ section h2::before{
 .char .onecard{
     background-color: #ebebeb;
     border-radius: 10px;
-    /* max-height: 180px; */
     margin-bottom: 30px;
 }
 
@@ -276,7 +275,6 @@ section h2::before{
 .movie{
     /* height: 80vh; */
     background-image: url('./ressources/img/jumpnight.jpg');
-    /* background-attachment: fixed; */
     background-size: cover;
     position: relative;
 }
@@ -288,7 +286,6 @@ section h2::before{
     position: absolute;
     top: 0;
     right: 0;
-    /* background-color: #000000; */
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), linear-gradient(180deg, rgba(0, 0, 0, 0) -22.27%, #000000 100%);
 }
 
@@ -309,13 +306,11 @@ section h2::before{
 
 .movie .galerie{
     max-width: 700px;
-    /* min-width: 400px; */
     margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     overflow-x: auto;
-    /* border:solid red 1px; */
 }
 
 .movie .galerie img{
@@ -415,14 +410,11 @@ footer{
 /* ================= STREAM  */
 
 #content_stream{
-    /* border:solid #333 1px; */
     padding: 50px;
-    /* height: 100vh; */
     background-color: #fff;
 }
 
 #episode_bloc{
-    /* border:solid var(--darkorange) 1px; */
     max-width: 300px !important;
     padding: 0;
     background-color: #fff;
