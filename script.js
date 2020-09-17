@@ -14,7 +14,7 @@ $(document).ready(function(){
 
     console.log("read");
 
-    $('#content_stream').on('click', 'button' , function(){
+    $('#content_stream').on('click', 'li' , function(){
         let id = $(this).val();
         getoneepisode(id)
     } )
@@ -40,7 +40,7 @@ function getallseason(){
             html += "<div id='saison" + oneseason.season + "' class='content_saison collapse' data-parent='#content_episode'>" ;
                 oneseason.episodes.forEach(oneepisode => {
                     let value = [oneepisode.num,oneepisode.title,oneepisode.url];
-                    html += "<button value="+oneepisode.id+"> <strong> Ep " + oneepisode.num +" : </strong> "+ oneepisode.title + "</button>";
+                    html += "<li value="+oneepisode.id+"> <strong> Ep " + oneepisode.num +" : </strong> "+ oneepisode.title + "</li>";
                     // console.log(html);
                 } )
             html += "</div>" ;
@@ -62,7 +62,7 @@ function getoneepisode(id){
             saison = oneseason.num ;
             oneseason.episodes.forEach(oneepisode => {
                 if (oneepisode.id == id ){
-                    current_season.text("saison " + saison );
+                    current_season.text("Saison " + saison );
                     episode_name.text('Episode ' + oneepisode.num + ' : ' + oneepisode.title);
                     iframe_src.src = oneepisode.url;
                     iframe_src.attr("src",oneepisode.url + ";rel=0;modestbranding=1;showinfo=0");
